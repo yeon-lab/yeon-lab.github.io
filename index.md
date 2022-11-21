@@ -38,7 +38,7 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   IJFIS, 2021
   <br>
-  [[Paper]([file:///Users/yeon/Downloads/ijfis-21-205.pdf](https://www.ijfis.org/journal/view.html?uid=959&vmd=Full))]
+  [[Paper](file:///Users/yeon/Downloads/ijfis-21-205.pdf](https://www.ijfis.org/journal/view.html?uid=959&vmd=Full)]
 
 ## Services
 
