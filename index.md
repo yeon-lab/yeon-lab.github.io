@@ -3,48 +3,43 @@ layout: homepage
 ---
 
 ## About Me
+I’m a second-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI (e.g., causal inference), computational medicine (e.g., predictive modeling)
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **DREAM: Domain Invariant and Contrastive Representation for Sleep Dynamics**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+   **Seungyeon Lee**, Thai-Hoang Pham, Ping Zhang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  IEEE International Conference on Data Mining, **ICDM 2022**
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://reader.elsevier.com/reader/sd/pii/S0020025522000561?token=1543FC01680D8F5829178489590EEFFBBC927CE6FD932235C5DD921B13792A19EC5725D0A87E0DDB0382D21BD8021913&originRegion=us-east-1&originCreation=20221121000626))] 
+  
+- **Deep Learning based Recommender System using Cross Convolutional Filters**
+  <br>
+   **Seungyeon Lee**, Dohyun Kim
+  <br>
+  Information Science, 2022
+  <br>
+  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://reader.elsevier.com/reader/sd/pii/S0020025522000561?token=1543FC01680D8F5829178489590EEFFBBC927CE6FD932235C5DD921B13792A19EC5725D0A87E0DDB0382D21BD8021913&originRegion=us-east-1&originCreation=20221121000626))] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Additive Ensemble Neural Networks**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Minyoung Park\*, **Seungyeon Lee**\*, Sangheum Hwang, Dohyun Kim (\*equal contributions)
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  IEEE Access, 2020
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9121218)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Similarity based Deep Neural Networks**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Seungyeon Lee**, Eunji Jo, Sangheum Hwang, Gyeong Bok Jung, Dohyun Kim
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  IJFIS, 2021
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](file:///Users/yeon/Downloads/ijfis-21-205.pdf)]
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference Reviewers: ICDM
