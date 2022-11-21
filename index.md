@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Short Biography [[CV](https://github.com/yeon-lab/yeon-lab.github.io/blob/main/assets/img/CV.pdf)]
 I’m a second-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI, computational medicine.
 
 
