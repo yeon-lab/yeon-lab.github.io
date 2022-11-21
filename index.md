@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I’m a second-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI (e.g., causal inference), computational medicine (e.g., predictive modeling)
+I’m a second-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI, computational medicine.
 
 
 ## Publications
