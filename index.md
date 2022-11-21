@@ -14,7 +14,7 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   IEEE International Conference on Data Mining, **ICDM 2022**
   <br>
-  [[PDF]()] 
+  [[Paper]()] 
   
 - **Deep Learning based Recommender System using Cross Convolutional Filters**
   <br>
@@ -22,7 +22,7 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   Information Science, 2022
   <br>
-  [[PDF](https://reader.elsevier.com/reader/sd/pii/S0020025522000561?token=74A5A9ADA9984714E732E1474A97192740D6CF89CB470DC20D9B05E63EEA4CBC1AEAA5ADFCBFF41B5AB18E3A15E993E4&originRegion=us-east-1&originCreation=20221121001724)] 
+  [[Paper](https://reader.elsevier.com/reader/sd/pii/S0020025522000561?token=74A5A9ADA9984714E732E1474A97192740D6CF89CB470DC20D9B05E63EEA4CBC1AEAA5ADFCBFF41B5AB18E3A15E993E4&originRegion=us-east-1&originCreation=20221121001724)] 
 
 - **Additive Ensemble Neural Networks**
   <br>
@@ -30,7 +30,7 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   IEEE Access, 2020
   <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9121218)]
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9121218)]
 
 - **Similarity based Deep Neural Networks**
   <br>
@@ -38,7 +38,7 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   IJFIS, 2021
   <br>
-  [[PDF]([file:///Users/yeon/Downloads/ijfis-21-205.pdf](https://www.ijfis.org/journal/view.html?uid=959&vmd=Full))]
+  [[Paper]([file:///Users/yeon/Downloads/ijfis-21-205.pdf](https://www.ijfis.org/journal/view.html?uid=959&vmd=Full))]
 
 ## Services
 
