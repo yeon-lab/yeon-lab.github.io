@@ -39,6 +39,11 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   IJFIS, 2021
   <br>
   [[Paper](https://www.ijfis.org/journal/view.html?uid=959&vmd=Full)]
+  
+## Awards
+
+- Student Travel Awards, ICDM 2022.
+- Poster Competition First Place Winne, INFORMS International Conference 2018. 
 
 ## Services
 
