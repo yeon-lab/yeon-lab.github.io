@@ -15,7 +15,7 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   IEEE International Conference on Data Mining, **ICDM 2022**
   <br>
-  [[Paper](https://yeon-lab.github.io/Portfolio/DREAM_ICDM2022.pdf)] 
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10027713)] 
   
 - **Deep Learning based Recommender System using Cross Convolutional Filters**
   <br>
