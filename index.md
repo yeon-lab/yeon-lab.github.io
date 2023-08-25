@@ -33,13 +33,6 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9121218)]
 
-- **Similarity based Deep Neural Networks**
-  <br>
-  **Seungyeon Lee**, Eunji Jo, Sangheum Hwang, Gyeong Bok Jung, Dohyun Kim
-  <br>
-  IJFIS, 2021
-  <br>
-  [[Paper](https://www.ijfis.org/journal/view.html?uid=959&vmd=Full)]
   
 ## Awards
 
