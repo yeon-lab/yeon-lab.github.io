@@ -20,7 +20,7 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
   <br>
   Patterns, 2023
   <br>
-   [[Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001976?via%3Dihub)
+   [[Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001976?via%3Dihub)]
 
 - **DREAM: Domain Invariant and Contrastive Representation for Sleep Dynamics**
   <br>
