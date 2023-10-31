@@ -8,6 +8,19 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
 
 
 ## Publications
+-**Heterogeneous Treatment Effect Estimation with Subpopulation Identification for Personalized Medicine in Opioid Use Disorder**
+  <br>
+   **Seungyeon Lee**, Ruoqi Liu, Wenyu Song, Ping Zhang
+  <br>
+  IEEE International Conference on Data Mining, **ICDM 2023**
+  
+-**Stable clinical risk prediction against distribution shift in electronic health records**
+  <br>
+   **Seungyeon Lee**, Changchang Yin, Ping Zhang
+  <br>
+  Patterns, 2023
+  <br>
+   [[Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001976?via%3Dihub)
 
 - **DREAM: Domain Invariant and Contrastive Representation for Sleep Dynamics**
   <br>
