@@ -13,6 +13,8 @@ I’m a second-year Ph.D. student at the Department of Computer Science and Engi
    **Seungyeon Lee**, Ruoqi Liu, Wenyu Song, Ping Zhang
   <br>
   IEEE International Conference on Data Mining, **ICDM 2023**
+  <br>
+   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415782)]
   
 - **Stable clinical risk prediction against distribution shift in electronic health records**
   <br>
