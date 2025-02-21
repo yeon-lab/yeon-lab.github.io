@@ -8,7 +8,7 @@ I’m a 4th year Ph.D. student at the Department of Computer Science and Enginee
 
 
 ## Publications
--**A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**
+- **A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**
   <br>
    **Seungyeon Lee**, Ruoqi Liu, Feixiong Cheng, Ping Zhang
   <br>
@@ -17,7 +17,7 @@ I’m a 4th year Ph.D. student at the Department of Computer Science and Enginee
    [[Paper](https://arxiv.org/pdf/2412.20373)]
 
 
--**The recent trend of twin epidemic in the United States: a 10-year longitudinal cohort study of co-prescriptions of opioids and stimulants**
+- **The recent trend of twin epidemic in the United States: a 10-year longitudinal cohort study of co-prescriptions of opioids and stimulants**
   <br>
    **Seungyeon Lee**, Wenyu Song, David W. Bates, Richard D. Urman, Ping Zhang
   <br>
@@ -26,7 +26,7 @@ I’m a 4th year Ph.D. student at the Department of Computer Science and Enginee
    [[Paper](https://www.thelancet.com/action/showPdf?pii=S2667-193X%2825%2900040-7)]
 
 
--**SubgroupTE: Advancing treatment effect estimation with subgroup identification**
+- **SubgroupTE: Advancing treatment effect estimation with subgroup identification**
   <br>
    **Seungyeon Lee**, Ruoqi Liu, Wenyu Song, Lang Li, Ping Zhang
   <br>
