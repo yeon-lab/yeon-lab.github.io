@@ -4,10 +4,35 @@ layout: homepage
 
 
 ## Short Biography
-I’m a third-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI, computational medicine.
+I’m a 4th year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI, computational medicine.
 
 
 ## Publications
+-**A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**
+  <br>
+   **Seungyeon Lee**, Ruoqi Liu, Feixiong Cheng, Ping Zhang
+  <br>
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining, **KDD ’25**
+  <br>
+   [[Paper](https://arxiv.org/pdf/2412.20373)]
+
+
+-**The recent trend of twin epidemic in the United States: a 10-year longitudinal cohort study of co-prescriptions of opioids and stimulants**
+  <br>
+   **Seungyeon Lee**, Wenyu Song, David W. Bates, Richard D. Urman, Ping Zhang
+  <br>
+  The Lancet Regional Health - Americas, 2025
+  <br>
+   [[Paper](https://www.thelancet.com/action/showPdf?pii=S2667-193X%2825%2900040-7)]
+
+
+-**SubgroupTE: Advancing treatment effect estimation with subgroup identification**
+  <br>
+   **Seungyeon Lee**, Ruoqi Liu, Wenyu Song, Lang Li, Ping Zhang
+  <br>
+  ACM Transactions on Intelligent Systems and Technology (TIST), 2025
+  <br>
+   
 - **Heterogeneous Treatment Effect Estimation with Subpopulation Identification for Personalized Medicine in Opioid Use Disorder**
   <br>
    **Seungyeon Lee**, Ruoqi Liu, Wenyu Song, Ping Zhang
