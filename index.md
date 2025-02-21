@@ -31,6 +31,8 @@ I’m a 4th year Ph.D. student at the Department of Computer Science and Enginee
    **Seungyeon Lee**, Ruoqi Liu, Wenyu Song, Lang Li, Ping Zhang
   <br>
   ACM Transactions on Intelligent Systems and Technology (TIST), 2025
+  <br>
+   [[Paper](https://arxiv.org/pdf/2401.12369)]
    
 - **Heterogeneous Treatment Effect Estimation with Subpopulation Identification for Personalized Medicine in Opioid Use Disorder**
   <br>
