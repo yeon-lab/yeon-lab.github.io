@@ -8,13 +8,13 @@ email: lee.10029 (at) osu.edu
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Seungyeon Lee
 description: Seungyeon Lee's homepage.
-canonical: https://yeon-lab.github.io/
+canonical: https://yeon-lab.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=BFomjFwAAAAJ&hl=en
 github_link: https://github.com/yeon-lab
-linkedin: https://www.linkedin.com/in/seungyeon-lee-1621a5191/
+linkedin: https://www.linkedin.com/in/seungyeon-lee-1621a5191
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
