@@ -1,1 +1,3 @@
-
+Host: "www" 
+Target / Canonical name: yeon-lab.github.io.
+TTL: 10 min
